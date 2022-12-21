@@ -1,4 +1,4 @@
-# type-challenges-notes
+# type-notes
 
 Record the code of utility types.
 
